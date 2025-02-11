@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to = "https://thyresson.io/:splat"
+status = 301
+force = true
