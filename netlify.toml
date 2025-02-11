@@ -1,3 +1,9 @@
+[build]
+  publish = "/"
+
+  # Default build command.
+  command = "echo 'bulding...'"
+  
 [[redirects]]
 from = "/*"
 to = "https://thyresson.io/:splat"
